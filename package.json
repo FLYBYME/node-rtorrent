@@ -1,20 +1,18 @@
 {
-	"author": {
-		"name": "Tim"
-	},
 	"name": "rtorrent",
+	"version": "0.0.0",
 	"description": "rTorrent XML-RPC cleint",
-	"version": "0.1.0",
-	"repository": {
-		"url": "https://github.com/FLYBYME/node-rtorrent"
+	"main": "lib/rtorrent.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"main": "rtorrent.js",
-	"engines": {
-		"node": "*"
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FLYBYME/node-rtorrent.git"
 	},
 	"dependencies": {
 		"xmlrpc": "*"
 	},
-	"devDependencies": {},
-	"optionalDependencies": {}
+	"author": "",
+	"license": "BSD"
 }
