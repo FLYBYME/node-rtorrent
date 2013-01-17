@@ -1,0 +1,20 @@
+{
+	"author": {
+		"name": "Tim"
+	},
+	"name": "rtorrent",
+	"description": "rTorrent XML-RPC cleint",
+	"version": "0.1.0",
+	"repository": {
+		"url": "https://github.com/FLYBYME/node-rtorrent"
+	},
+	"main": "rtorrent.js",
+	"engines": {
+		"node": "*"
+	},
+	"dependencies": {
+		"xmlrpc": "*"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {}
+}
